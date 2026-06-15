@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to my research profile website. I’m a student in the Intro to Reproducible Data Analysis Using R course.\n\n\nReplace this section with information about yourself:\n\nName: alya bakir\nInstitution: Haverford college\nResearch Interests: cell biology\nEmail: abaki@haverford.edu ## My Research\n\nI’m interested in understanding blah blah. Through this course, I’ve learned how to:\n\nUse R for data analysis\nCreate reproducible research workflows\nBuild websites to share my work\nManage my research projects with Git and GitHub\n\n\n\n\nThis site showcases my research and projects. Check out my Projects page to see my final report and other work!\nAs my research progresses, I’ll continue adding:\n\nPublications\nConference posters\nNew analyses and projects\nAdditional resources\n\n\nKeep exploring! Navigate using the menu above."
+    "text": "Welcome to my research profile website. I’m a student in the Intro to Reproducible Data Analysis Using R course.\n\n\nReplace this section with information about yourself:\n\nName: alya\nInstitution: Haverford college\nResearch Interests: cell biology\nEmail: abaki@haverford.edu ## My Research\n\nI’m interested in understanding blah blah. Through this course, I’ve learned how to:\n\nUse R for data analysis\nCreate reproducible research workflows\nBuild websites to share my work\nManage my research projects with Git and GitHub\n\n\n\n\nThis site showcases my research and projects. Check out my Projects page to see my final report and other work!\nAs my research progresses, I’ll continue adding:\n\nPublications\nConference posters\nNew analyses and projects\nAdditional resources\n\n\nKeep exploring! Navigate using the menu above."
   },
   {
     "objectID": "index.html#about-me",
@@ -40,5 +40,12 @@
     "title": "Projects",
     "section": "",
     "text": "As you continue your research journey, you can add more pages here! For example:\n\nConference posters\nPublications\nData visualizations\nAnalysis write-ups\nProject proposals\n\nTo add a new project:\n\nCreate a new .qmd file in the projects/ folder\nAdd a link to it on this page\nPush to GitHub and your site updates automatically!"
+  },
+  {
+    "objectID": "index.html#about-me-jjjhigyghiuhiuhi",
+    "href": "index.html#about-me-jjjhigyghiuhiuhi",
+    "title": "Welcome",
+    "section": "",
+    "text": "Replace this section with information about yourself:\n\nName: alya\nInstitution: Haverford college\nResearch Interests: cell biology\nEmail: abaki@haverford.edu ## My Research\n\nI’m interested in understanding blah blah. Through this course, I’ve learned how to:\n\nUse R for data analysis\nCreate reproducible research workflows\nBuild websites to share my work\nManage my research projects with Git and GitHub"
   }
 ]
