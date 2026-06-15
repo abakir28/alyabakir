@@ -6,11 +6,11 @@ title: "Welcome"
 
 Welcome to my research profile website. I'm a student in the Intro to Reproducible Data Analysis Using R course.
 
-## About Me
+## About Me  jjjhigyghiuhiuhi
 
 Replace this section with information about yourself:
 
-- **Name:** alya bakir
+- **Name:** alya
 - **Institution:** Haverford college
 - **Research Interests:** cell biology
 - **Email:** abaki@haverford.edu
