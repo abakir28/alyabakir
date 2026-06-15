@@ -10,14 +10,13 @@ Welcome to my research profile website. I'm a student in the Intro to Reproducib
 
 Replace this section with information about yourself:
 
-- **Name:** Your Name Here
-- **Institution:** Your University
-- **Research Interests:** Add your research interests here
-- **Email:** your.email@university.edu
-
+- **Name:** alya bakir
+- **Institution:** Haverford college
+- **Research Interests:** cell biology
+- **Email:** abaki@haverford.edu
 ## My Research
 
-I'm interested in understanding [your topic area]. Through this course, I've learned how to:
+I'm interested in understanding blah blah. Through this course, I've learned how to:
 
 - Use R for data analysis
 - Create reproducible research workflows
