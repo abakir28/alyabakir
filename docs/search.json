@@ -19,5 +19,26 @@
     "title": "Welcome",
     "section": "",
     "text": "This site showcases my research and projects. Check out my Projects page to see my final report and other work!\nAs my research progresses, I’ll continue adding:\n\nPublications\nConference posters\nNew analyses and projects\nAdditional resources\n\n\nKeep exploring! Navigate using the menu above."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are my research projects and work:\n\n\nMy final project for CELL 6351 - Intro to Reproducible Data Analysis Using R.\nView Final Report →\n\n\n\n\nAs you continue your research journey, you can add more pages here! For example:\n\nConference posters\nPublications\nData visualizations\nAnalysis write-ups\nProject proposals\n\nTo add a new project:\n\nCreate a new .qmd file in the projects/ folder\nAdd a link to it on this page\nPush to GitHub and your site updates automatically!"
+  },
+  {
+    "objectID": "projects.html#final-report",
+    "href": "projects.html#final-report",
+    "title": "Projects",
+    "section": "",
+    "text": "My final project for CELL 6351 - Intro to Reproducible Data Analysis Using R.\nView Final Report →"
+  },
+  {
+    "objectID": "projects.html#adding-more-projects",
+    "href": "projects.html#adding-more-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "As you continue your research journey, you can add more pages here! For example:\n\nConference posters\nPublications\nData visualizations\nAnalysis write-ups\nProject proposals\n\nTo add a new project:\n\nCreate a new .qmd file in the projects/ folder\nAdd a link to it on this page\nPush to GitHub and your site updates automatically!"
   }
 ]
