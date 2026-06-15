@@ -1,6 +1,15 @@
 ---
 title: "Welcome"
+toc: false
+about:
+  template: trestles
+  links: 
+  - text: github
+    href: link
+  - text: email
+    href: link
 ---
+::: {.columnpage}
 
 # Hello! 👋
 

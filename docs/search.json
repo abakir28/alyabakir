@@ -47,5 +47,54 @@
     "title": "Welcome",
     "section": "",
     "text": "Replace this section with information about yourself:\n\nName: alya\nInstitution: Haverford college\nResearch Interests: cell biology\nEmail: abaki@haverford.edu ## My Research\n\nI’m interested in understanding blah blah. Through this course, I’ve learned how to:\n\nUse R for data analysis\nCreate reproducible research workflows\nBuild websites to share my work\nManage my research projects with Git and GitHub"
+  },
+  {
+    "objectID": "projects/final-report.html",
+    "href": "projects/final-report.html",
+    "title": "Final Report: [Your Project Title]",
+    "section": "",
+    "text": "Replace this with an introduction to your research question or project. What are you investigating? Why does it matter?\n\n\n\nDescribe how you conducted your analysis. What data did you use? What analyses did you perform?\n\n\n\nShare your findings here. You can include:\n\nText explanations\nTables\nFigures and visualizations\nCode examples (if relevant)\n\n\n\nHere’s a sample R code block:\n# Load a library\nlibrary(ggplot2)\n\n# Create some sample data\ndata &lt;- data.frame(\n  x = 1:10,\n  y = rnorm(10)\n)\n\n# Make a plot\nplot(data$x, data$y)\n\n\n\n\n\n\nMethod\nResult\nP-value\n\n\n\n\nAnalysis 1\nSignificant\n0.01\n\n\nAnalysis 2\nNot Significant\n0.15\n\n\n\n\n\n\n\nWhat do your results mean? How do they relate to your research question? What limitations exist? What would you do next?\n\n\n\nSummarize your findings and their implications.\n\n\n\nAdd any references to papers, data sources, or resources you used.\n\nLast updated: June 2026"
+  },
+  {
+    "objectID": "projects/final-report.html#introduction",
+    "href": "projects/final-report.html#introduction",
+    "title": "Final Report: [Your Project Title]",
+    "section": "",
+    "text": "Replace this with an introduction to your research question or project. What are you investigating? Why does it matter?"
+  },
+  {
+    "objectID": "projects/final-report.html#methods",
+    "href": "projects/final-report.html#methods",
+    "title": "Final Report: [Your Project Title]",
+    "section": "",
+    "text": "Describe how you conducted your analysis. What data did you use? What analyses did you perform?"
+  },
+  {
+    "objectID": "projects/final-report.html#results",
+    "href": "projects/final-report.html#results",
+    "title": "Final Report: [Your Project Title]",
+    "section": "",
+    "text": "Share your findings here. You can include:\n\nText explanations\nTables\nFigures and visualizations\nCode examples (if relevant)\n\n\n\nHere’s a sample R code block:\n# Load a library\nlibrary(ggplot2)\n\n# Create some sample data\ndata &lt;- data.frame(\n  x = 1:10,\n  y = rnorm(10)\n)\n\n# Make a plot\nplot(data$x, data$y)\n\n\n\n\n\n\nMethod\nResult\nP-value\n\n\n\n\nAnalysis 1\nSignificant\n0.01\n\n\nAnalysis 2\nNot Significant\n0.15"
+  },
+  {
+    "objectID": "projects/final-report.html#discussion",
+    "href": "projects/final-report.html#discussion",
+    "title": "Final Report: [Your Project Title]",
+    "section": "",
+    "text": "What do your results mean? How do they relate to your research question? What limitations exist? What would you do next?"
+  },
+  {
+    "objectID": "projects/final-report.html#conclusions",
+    "href": "projects/final-report.html#conclusions",
+    "title": "Final Report: [Your Project Title]",
+    "section": "",
+    "text": "Summarize your findings and their implications."
+  },
+  {
+    "objectID": "projects/final-report.html#references",
+    "href": "projects/final-report.html#references",
+    "title": "Final Report: [Your Project Title]",
+    "section": "",
+    "text": "Add any references to papers, data sources, or resources you used.\n\nLast updated: June 2026"
   }
 ]
